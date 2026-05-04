@@ -1,0 +1,1 @@
+\n# Mobile deal finder dependencies\nstreamlit\npandas\nfastapi\nuvicorn\nrequests\n
