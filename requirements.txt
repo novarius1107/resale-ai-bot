@@ -1,1 +1,9 @@
-\n# Mobile deal finder dependencies\nstreamlit\npandas\nfastapi\nuvicorn\nrequests\n
+fastapi==0.115.6
+uvicorn==0.34.0
+streamlit==1.41.1
+sqlalchemy==2.0.36
+pydantic==2.10.4
+python-dotenv==1.0.1
+apscheduler==3.11.0
+pandas==2.2.3
+requests==2.32.3
